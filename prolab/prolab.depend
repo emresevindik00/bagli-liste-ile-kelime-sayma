@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609794298 source:c:\users\msi\desktop\c projeler\prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
